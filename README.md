@@ -4,7 +4,7 @@ Local-only laptop demo: structural deformation monitor for a 2km × 2km Nairobi 
 
 ## 📱FrontEnd ( UI/UX ) view
 | Huruma Area ( Nairobi ) & Kilindini Harbour ( Mombasa ) Views | 
-| <img src="Screenshots/one.png" width="650" /> | <img src="Screenshots/two.png" width="650" /> |
+| <img src="Screenshots/one.png" width="1000" /> | <img src="Screenshots/two.png" width="1000" /> |
 
 ## Honest framing
 
