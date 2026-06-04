@@ -3,9 +3,9 @@
 Local-only laptop demo: structural deformation monitor for a 2km × 2km Nairobi neighborhood, built on Sentinel-1 InSAR. Designed to run with **zero internet** during a boardroom pitch.
 
 ## 📱FrontEnd ( UI/UX ) view
-| Desktop View (Main Dashboard) | Tablet View | Mobile View |
+| Huruma Area ( Nairobi ) View | Kilindini Harbour ( Mombasa ) View | 
 | :---: | :---: | :---: |
-| <img src="Screenshots/one.png" width="450" /> | <img src="Screenshots/two.png" width="250" /> |
+| <img src="Screenshots/one.png" width="450" /> | <img src="Screenshots/two.png" width="450" /> |
 
 ## Honest framing
 
