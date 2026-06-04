@@ -1,4 +1,4 @@
-# infra-proptech
+# Geospatial Intelligence Platform that uses Sentinel-1 
 
 Local-only laptop demo: structural deformation monitor for a 2km × 2km Nairobi neighborhood, built on Sentinel-1 InSAR. Designed to run with **zero internet** during a boardroom pitch.
 
