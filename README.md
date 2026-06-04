@@ -5,7 +5,7 @@ Local-only laptop demo: structural deformation monitor for a 2km × 2km Nairobi 
 ## 📱FrontEnd ( UI/UX ) view
 | Desktop View (Main Dashboard) | Tablet View | Mobile View |
 | :---: | :---: | :---: |
-| <img src="screenshots/one.png" width="450" /> | <img src="screenshots/two.png" width="250" /> |
+| <img src="Screenshots/one.png" width="450" /> | <img src="Screenshots/two.png" width="250" /> |
 
 ## Honest framing
 
