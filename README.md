@@ -1,6 +1,6 @@
-# Geospatial Intelligence Platform that uses Sentinel-1 
+# Geospatial Intelligence Platform that uses Sentinel-1 Radar to detect structural faults in Buildings, Bridges, etc. This can also be extended to monitor silting in Dams.
 
-Local-only laptop demo: structural deformation monitor for a 2km × 2km Nairobi neighborhood, built on Sentinel-1 InSAR. Designed to run with **zero internet** during a boardroom pitch.
+Local-only laptop demo: structural deformation monitor for a 2 km × 2 km Nairobi neighbourhood, built on Sentinel-1 InSAR. Designed to run with **zero internet** during a boardroom pitch.
 
 ## 📱FrontEnd ( UI/UX ) view
 Huruma Area ( Nairobi ) InSAR Analysis
@@ -8,7 +8,7 @@ Huruma Area ( Nairobi ) InSAR Analysis
 
 ## Honest framing
 
-Per-building InSAR velocities in dense, informal Nairobi neighborhoods are **noisy** (decorrelation on corrugated-iron roofs, sub-pixel buildings, construction churn). Treat the numbers as a **block-level deformation indicator**, fused with riparian distance and soil class into an explainable composite score. This is **not** a predictive collapse model — that needs construction-quality data the pipeline can't see.
+Per-building InSAR velocities in dense, informal Nairobi neighbourhoods are **noisy** (decorrelation on corrugated-iron roofs, sub-pixel buildings, construction churn). Treat the numbers as a **block-level deformation indicator**, fused with riparian distance and soil class into an explainable composite score. This is **not** a predictive collapse model — that needs construction-quality data the pipeline can't see.
 
 ## Architecture (decided)
 
